@@ -53,6 +53,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Guilima1700/Guilima1700/output/snake.svg" alt="Snake animation" />
 
 ###
