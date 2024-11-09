@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Web<br><br>- HTML<br>- CSS<br>- JavaScript<br><br>Estudando atualmente<br>- JAVA<br>- Banco de Dados<br>- Pyhon</p>
+<p align="left">Desenvolvedor Web<br><br>- HTML<br>- CSS<br>- JavaScript<br><br>Estudando atualmente<br>- HTML<br>- CSS<br>- JavaScript <br>- React <br>- TypeScript</p>
 
 ###
 
